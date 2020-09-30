@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 😉 Status
+
+目前在职，坎德拉科技创新，欢迎找我内推，可以加我微信细聊噢~
+
+## 🌐 找到我
+
+- github：https://github.com/chachaxw
+- 知乎：https://www.zhihu.com/people/chachaxw
+- 微信：867571123
+
+## 💚 Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chachaxw&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
