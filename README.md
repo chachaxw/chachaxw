@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 🔭 Learning...
 
-`Javascript`, `Typescript`, `Dart`, `Swift`, `Java`
+`Javascript` `Typescript` `Dart` `Swift` `Java`
 
 ## 📫 Where
 
