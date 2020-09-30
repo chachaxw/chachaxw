@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 
 大前端Leader，坎德拉科技创新，欢迎找我内推，可以加我微信细聊噢~
 
-## 🌐 找到我
+## 🔭 Learning...
+
+`Javascript`, `Typescript`, `Dart`, `Swift`, `Java`
+
+## 📫 Where
 
 - github：https://github.com/chachaxw
 - 知乎：https://www.zhihu.com/people/chachaxw
