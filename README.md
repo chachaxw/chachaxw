@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![Swift](https://img.shields.io/badge/swift-%23323330.svg?&style=for-the-badge&logo=swift&logoColor=%23E3603C)
 ![Dart](https://img.shields.io/badge/dart-%23323330.svg?&style=for-the-badge&logo=dart&logoColor=%230175C2)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23323330.svg?&style=for-the-badge&logo=node&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23323330.svg?&style=for-the-badge&logo=java&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%23007ACC)
 ![Html5](https://img.shields.io/badge/html5-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=%23E34F26)
 ![Css3](https://img.shields.io/badge/css3-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=%231572B6)
