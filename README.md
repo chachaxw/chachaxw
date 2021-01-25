@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👀 Status
+## 👀 I’m currently working on
 
-大前端Leader，坎德拉科技创新，欢迎找我内推，可以加我微信细聊噢~
+坎德拉科技创新有限公司，大前端，专注于Web，安卓和iOS开发，欢迎找我内推，可以加我微信细聊噢~
 
-## 🔭 Learning...
+## 🔭 I’m currently learning...
 
 <!-- %23323330 -->
 ![React](https://img.shields.io/badge/react-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![Html5](https://img.shields.io/badge/html5-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=%23E34F26)
 ![Css3](https://img.shields.io/badge/css3-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=%231572B6)
 
-## 📫 Where
+## 📫 How to reach me?
 
 - github：https://github.com/chachaxw
 - 知乎：https://www.zhihu.com/people/chachaxw
