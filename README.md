@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![hello chacha](my-blob.jpg)
+
 ## 👀 I’m currently working on
 
 坎德拉科技创新有限公司，大前端，专注于Web，安卓和iOS开发，欢迎找我内推，可以加我微信细聊噢~
