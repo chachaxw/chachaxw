@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, [Auction Now...](https://www.bakeryswap.org/#/exchange/new-artworks/artworkInfo/16567/1/1)
 
 <!--
 **chachaxw/chachaxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![https://www.bakeryswap.org/#/exchange/new-artworks/artworkInfo/16567/1/1](AUCTION_NOW.png)
+![AUCTION_NOW](AUCTION_NOW.png)
 
 ## 👀 I’m currently working on
 
-坎德拉科技创新有限公司，大前端，专注于Web，安卓和iOS开发，欢迎找我内推，可以加我微信细聊噢~
+大前端，专注于Web，安卓和iOS开发
 
 ## 🔭 I’m currently learning...
 
