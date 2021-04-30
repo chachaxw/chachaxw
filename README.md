@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![hello chacha](my-blob.jpg)
+![https://www.bakeryswap.org/#/exchange/new-artworks/artworkInfo/16567/1/1](AUCTION_NOW.png)
 
 ## 👀 I’m currently working on
 
