@@ -1,4 +1,4 @@
-### Hi there 👋, [Auction Now...](https://www.bakeryswap.org/#/exchange/new-artworks/artworkInfo/16567/1/1)
+## Hi there 👋, [Auction My Music NFT Now 👉](https://www.bakeryswap.org/#/exchange/new-artworks/artworkInfo/16567/1/1)
 
 <!--
 **chachaxw/chachaxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![AUCTION_NOW](AUCTION_NOW.png)
+## My Github Skyline 2021
+![My Github Skyline](My-Github-Skyline.png)
 
 ## 👀 I’m currently working on
 
-大前端，专注于Web，安卓和iOS开发
+Focusing on Web，Android and iOS development, build amazing things!
 
 ## 🔭 I’m currently learning...
 
@@ -37,9 +38,11 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me?
 
-- github：https://github.com/chachaxw
-- 知乎：https://www.zhihu.com/people/chachaxw
-- 微信：C867571123
+- Github: https://github.com/chachaxw
+- Zhihu: https://www.zhihu.com/people/chachaxw
+- Twitter: https://twitter.com/ChachaChou18
+- Email: chachazw@gmail.com
+- WeChat：C867571123
 
 ## 💁🏻 Stats
 
