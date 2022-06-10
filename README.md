@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ## My Github Skyline 2021
-![My Github Skyline](My-Github-Skyline.png)
+[![My Github Skyline](My-Github-Skyline.png)](https://skyline.github.com/chachaxw)
 
-## 👀 I’m currently working on
+## 👀 I’m currently focusing on
 
-Focusing on Web，Android and iOS development, build amazing things!
+Web💻 and App📱 development, build amazing things!
 
-## 🔭 I’m currently learning...
+## 🧑🏻‍💻 I’m currently learning
 
 <!-- %23323330 -->
 ![Web3](https://img.shields.io/badge/web3-%23323330.svg?&style=for-the-badge&logo=web3dotjs&logoColor=%23F16822)
@@ -46,8 +46,8 @@ Focusing on Web，Android and iOS development, build amazing things!
 ## 📫 How to reach me?
 
 - Github: https://github.com/chachaxw
-- Zhihu: https://www.zhihu.com/people/chachaxw
 - Twitter: https://twitter.com/ChachaChou18
+- Zhihu: https://www.zhihu.com/people/chachaxw
 - Email: chachazw@gmail.com
 - WeChat：C867571123
 
