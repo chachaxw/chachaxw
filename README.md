@@ -26,13 +26,7 @@ Web💻 and App📱 development, build amazing things!
 
 <!-- %23323330 -->
 ![Web3](https://img.shields.io/badge/web3-%23EAEAEA.svg?&style=for-the-badge&logo=web3dotjs&logoColor=%23F16822)
-![Rust](https://img.shields.io/badge/rust-%23EAEAEA.svg?&style=for-the-badge&logo=rust&logoColor=%23000000)
 ![Ethereum](https://img.shields.io/badge/ethereum-%23EAEAEA.svg?&style=for-the-badge&logo=solidity&logoColor=%233C3C3D)
-![React](https://img.shields.io/badge/react-%23EAEAEA.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue](https://img.shields.io/badge/vue-%23EAEAEA.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
-![TypeScript](https://img.shields.io/badge/typescript-%23EAEAEA.svg?&style=for-the-badge&logo=typescript&logoColor=%23007ACC)
-![Swift](https://img.shields.io/badge/swift-%23EAEAEA.svg?&style=for-the-badge&logo=swift&logoColor=%23E3603C)
-![C++](https://img.shields.io/badge/c++-%23EAEAEA.svg?&style=for-the-badge&logo=cplusplus&logoColor=%23F7DF1E)
 
 ## 📫 How to reach me?
 
