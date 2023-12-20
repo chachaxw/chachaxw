@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Github Skyline 2022
-[![My Github Skyline](My-Github-Skyline-2022.png)](https://skyline.github.com/chachaxw)
+## My Github Skyline 2023
+[![My Github Skyline](My-Github-Skyline-2023.png)](https://skyline.github.com/chachaxw)
 
 ## 👀 I’m currently focusing on
 
