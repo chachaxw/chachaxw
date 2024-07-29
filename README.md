@@ -1,4 +1,4 @@
-## Hi there 👋, [Auction My Music NFT Now 👉](https://www.bakeryswap.org/#/exchange/new-artworks/artworkInfo/16567/1/1)
+## Hi there 👋
 
 <!--
 **chachaxw/chachaxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
