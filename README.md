@@ -31,7 +31,7 @@ Web💻 and App📱 development, build amazing things!
 ## 📫 How to reach me?
 
 - Github: https://github.com/chachaxw
-- Twitter: https://twitter.com/ChachaChou18
+- Twitter: https://twitter.com/ChachaCryptoX
 - Zhihu: https://www.zhihu.com/people/chachaxw
 - Email: chachazw@gmail.com
 - WeChat：C867571123
